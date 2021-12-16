@@ -1,0 +1,10 @@
+<html>
+<body bgcolor="red">
+<p>This is renowed company in india established by <font color="white">prasanth  tatipaka</font>(founder) in 2021 <br>
+For unemployed youth and students we provide better chances to their lifes   by hiring them without any experience.<br>
+Beacuse our founder prasanth faced a lot of consequences for getting a small job then he decided to give lifes for students who r waiting for jobs .
+<br>
+Thank You
+</body>
+</html>
+

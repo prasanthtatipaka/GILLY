@@ -1,0 +1,8 @@
+<html>
+<body bgcolor="black">
+<a href="homey.html" target="midrighty"><font color="red">HOME</a><br><br>
+<a href="abouty.html"  target="midrighty"><font color="red">ABOUT</a><br><br>
+<a href="coursesy.html"  target="midrighty"><font color="red">COURSES</a><br><br>
+<a href="contacty.html" target="midrighty"><font color="red">CONTACT US</a><br><br>
+</body>
+</html>
